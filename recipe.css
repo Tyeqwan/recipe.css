@@ -1,0 +1,23 @@
+body {background-color:black;}
+
+h1 {color:crimson;
+	margin-top:50px;
+	margin-bottom:50px;
+	margin-left:400px;
+	margin-right:80Px;
+	font-family:"Time New Roman",Times,serif; 
+	text-transform:uppercase;}
+
+h2 {color:deeppink; 
+	font-family:"Time New Roman",Times,serif; 
+	text-transform:uppercase;}
+
+ul {color:hotpink;}
+
+ol {color:coral;}
+
+p {color:orangered;}
+
+#main {color:lightpink;}
+
+.alert{ color: grey; font-weight:bold; }
